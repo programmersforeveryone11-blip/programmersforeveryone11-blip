@@ -1,32 +1,38 @@
 <p align="center">
-  <img src="5.png" width="70%" />
+  <img src="5.png" width="100%" />
 </p>
 
-# ¡Hola, soy Luizabteh! 👋🇻🇪
+<h1 align="center">¡Hola, soy Luizabteh! 👋🇻🇪</h1>
 
-¡Hola! Soy de Venezuela y tengo 15 años. Tengo un sueño muy claro: **crear y consolidar la empresa tech número 1 de Venezuela**. Trabajo duro hora tras hora para hacerlo realidad.
+<p align="center">
+  Tengo 15 años y soy de Venezuela. Tengo un sueño muy claro: <b>crear y consolidar la empresa tech número 1 de Venezuela</b>. Trabajo duro día a día para hacerlo realidad.
+</p>
 
-Actualmente trabajo como **freelancer** y lidero mi propio estudio tecnológico en crecimiento: **Luizabeth's Studios**. Si quieres conocer más sobre mi proyecto actual, puedes visitar [mi web de clientes](https://clientes-chi.vercel.app).
+<p align="center">
+  Actualmente trabajo como <b>freelancer</b> y lidero mi propio estudio tecnológico en crecimiento: <b>Luizabeth's Studios</b>.<br>
+  👉 <a href="https://clientes-chi.vercel.app" target="_blank">Conoce mi web de clientes aquí</a>
+</p>
 
 ---
 
 ## 🎯 ¿A qué me dedico?
-* 📚 Estudiar
-* 💡 Crear
-* 🔭 Aprender y explorar
+* 📚 **Estudiar**
+* 💡 **Crear**
+* 🔭 **Aprender y explorar**
 
 ---
 
 ## 🚀 Lo que hago
-* 💻 Crear apps web
-* 🎮 Creación de juegos
-* 🎬 Edición de video
-* 🛠️ Resolver problemas
-* 🔒 Ciberseguridad y Hacking ético sencillo
+* 💻 **Crear apps web**
+* 🎮 **Creación de juegos**
+* 🎬 **Edición de video**
+* 🛠️ **Resolver problemas**
+* 🔒 **Ciberseguridad y Hacking ético sencillo**
 
 ---
 
 ## 🌐 Conéctate conmigo
+
 <p align="center">
   <a href="https://www.tiktok.com/@sophibarcos" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
@@ -47,14 +53,10 @@ Actualmente trabajo como **freelancer** y lidero mi propio estudio tecnológico 
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 💎 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,figma,pr,ps" />
 </p>
 
 ---

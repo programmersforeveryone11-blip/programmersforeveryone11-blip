@@ -1,38 +1,50 @@
-<!-- 1. Imagen de cabecera (Banner arriba) -->
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_O_BANNER" width="100%" />
+  <img src="5.png" width="100%" />
 </p>
 
-<!-- 2. Tarjeta de presentación y breve descripción -->
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Witsiti! 👋
 
-Soy un apasionado del desarrollo de software. Me encanta crear soluciones web y aprender nuevas tecnologías cada día.
+¡Hola! Soy de Venezuela y tengo 15 años. Tengo un sueño muy claro: **crear y consolidar la empresa tech número 1 de Venezuela**. Trabajo duro hora tras hora para hacerlo realidad.
 
-<!-- 3. Enlaces a tus redes sociales (con badges/escudos) -->
+Actualmente trabajo como **freelancer** y lidero mi propio estudio tecnológico en crecimiento: **Luizabeth's Studios**. Si quieres conocer más sobre mi proyecto actual, puedes visitar [mi web de clientes](https://clientes-chi.vercel.app).
+
+---
+
+## 🛠️ ¿A qué me dedico?
+* 💻 **Desarrollo Web & Creación de Apps**
+* 🎨 **Diseño UI/UX con Figma**
+* 🎬 **Edición de Videos**
+* 🔒 **Ciberseguridad y Hacking Ético**
+
+---
+
+## 🌐 Conéctate conmigo
 <p>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.tiktok.com/@sophibarcos" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/tu-usuario" target="_blank">
+  <a href="https://www.instagram.com/luizabethsophia/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://es.pinterest.com/sophibarcos/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@SophiBarcos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<!-- 4. Lo que ofrezco / Servicios -->
-## 🚀 ¿Qué ofrezco?
-* Desarrollo de aplicaciones web frontend y backend a medida.
-* Optimización y diseño de interfaces responsivas.
-* Creación de scripts y automatizaciones sencillas.
+## 🚀 Lo que hago
+* 💻 Desarrollo de software y aplicaciones web.
+* 🎨 Diseño de interfaces sencillas e intuitivas.
+* 🛠️ Automatización de tareas y resolución de problemas.
 
 ---
 
-<!-- 5. Tecnologías y lenguajes que manejas (Logitos) -->
-## 🛠️ Tecnologías y Lenguajes
+## 🛠️ Tecnologías que manejo
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,12 +55,11 @@ Soy un apasionado del desarrollo de software. Me encanta crear soluciones web y 
 
 ---
 
-<!-- 6. GitHub Analytics (Estadísticas y gráficas como en tu imagen) -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=programmersforeveryone11-blip&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmersforeveryone11-blip&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">

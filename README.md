@@ -16,18 +16,18 @@
 ---
 
 ## 🎯 ¿A qué me dedico?
-* 📚 **Estudiar**
-* 💡 **Crear**
-* 🔭 **Aprender y explorar**
+- 📚 **Estudiar**
+- 💡 **Crear**
+- 🔭 **Aprender y explorar**
 
 ---
 
 ## 🚀 Lo que hago
-* 💻 **Crear apps web**
-* 🎮 **Creación de juegos**
-* 🎬 **Edición de video**
-* 🛠️ **Resolver problemas**
-* 🔒 **Ciberseguridad y Hacking ético sencillo**
+- 💻 **Crear apps web**
+- 🎮 **Creación de juegos**
+- 🎬 **Edición de video**
+- 🛠️ **Resolver problemas**
+- 🔒 **Ciberseguridad y Hacking ético sencillo**
 
 ---
 
@@ -70,4 +70,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmersforeveryone11-blip&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="hf.gif" width="60%" />
 </p>

@@ -177,6 +177,13 @@
   <img src="hf.gif" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1500&color=E6EDF3&background=21262D&center=true&vCenter=true&multiline=true&width=780&height=90&lines=%22Mis+ca%C3%ADdas+son+muchas%2C+pero+mi+ambici%C3%B3n+es+m%C3%A1s+grande.%22;%22Mis+cicatrices+son+varias%2C+pero+mi+voluntad+es+una%3A+vencer.%22;%22Mis+dudas+son+pasajeras%3B+mis+metas%2C+innegociables.%22;%22Mis+errores+me+ense%C3%B1an%2C+pero+mis+sue%C3%B1os+me+gobiernan.%22;%22El+camino+es+largo%2C+pero+mi+hambre+de+%C3%A9xito+es+infinita.%22;%22Mis+miedos+hacen+ruido%2C+pero+mis+hechos+hablan+m%C3%A1s+fuerte.%22" alt="Frases motivadoras" />
-</p>
+<div align="center">
+
+> *"Mis caídas son muchas, pero mi ambición es más grande."*  
+> *"Mis cicatrices son varias, pero mi voluntad es una: vencer."*  
+> *"Mis dudas son pasajeras; mis metas, innegociables."*  
+> *"Mis errores me enseñan, pero mis sueños me gobiernan."*  
+> *"El camino es largo, pero mi hambre de éxito es infinita."*  
+> *"Mis miedos hacen ruido, pero mis hechos hablan más fuerte."*
+
+</div>

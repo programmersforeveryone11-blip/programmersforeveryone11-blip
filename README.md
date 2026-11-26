@@ -155,7 +155,7 @@
 ## 💎 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,figma,pr,ps" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,figma" />
 </p>
 
 ---
